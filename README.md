@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rj-shashwat
-- 👀 I’m interested in ...blockchain,devOps
+- 👀 I’m interested in ..blockchain,devOps
 - 🌱 I’m currently learning ...Java , Dsa and web Development
 - 💞️ I’m looking to collaborate on ...projects related to blockchain
 - 📫 How to reach me ...@rjshashwatraj07lkl@gmail.com
